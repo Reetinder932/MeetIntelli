@@ -19,4 +19,4 @@ ai-service/uploads/
 backend/chat_media/
 bot-service/recordings/
 
-./vscode
+.vscode
