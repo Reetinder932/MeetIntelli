@@ -1,0 +1,16 @@
+{
+  "name": "aimeeting-bot",
+  "version": "1.0.0",
+  "description": "Headless browser meeting recorder bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.10.0",
+    "ws": "^8.17.0",
+    "axios": "^1.7.2",
+    "form-data": "^4.0.0"
+  }
+}

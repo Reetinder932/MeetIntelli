@@ -1,0 +1,20 @@
+# Sensitive environment variables
+.env
+
+# Ignore Python cache directories
+__pycache__/
+**/__pycache__/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+*.log
+
+# User-generated assets, uploads, and databases
+ai-service/vector_stores/
+ai-service/uploads/
+backend/chat_media/
+bot-service/recordings/
