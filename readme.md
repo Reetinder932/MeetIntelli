@@ -49,8 +49,8 @@ The entire platform is containerized and orchestrates databases, services, and l
 
 1.  **Clone the workspace** and navigate to the directory:
     ```bash
-    git clone https://github.com/your-username/ai-meeting.git
-    cd ai-meeting
+    git clone https://github.com/Reetinder932/MeetInetlli.git
+    cd MeetIntelli
     ```
 
 2.  **Launch the container cluster**:
